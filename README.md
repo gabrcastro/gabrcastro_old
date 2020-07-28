@@ -13,4 +13,4 @@
 - ⚡ Fun fact: ...
 -->
 
-[:[linkedin]https://img.shields.io/badge/Linkedin-%20-blue](https://www.linkedin.com/in/gabrielsouzacastro/)
+[![Linkedin Badge](https://img.shields.io/badge/Linkedin-%20-blue)](https://www.linkedin.com/in/gabrielsouzacastro/)
