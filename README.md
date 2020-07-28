@@ -13,4 +13,4 @@
 - ⚡ Fun fact: ...
 -->
 
-![linkedin](https://www.google.com)
+![linkedin](https://www.linkedin.com/in/gabrielsouzacastro/)
