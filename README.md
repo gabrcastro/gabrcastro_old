@@ -13,5 +13,11 @@
 - ⚡ Fun fact: ...
 -->
 
+- ⚡ Flutter
+- ⚡ Mobile Developer
+- ⚡ Web Developer
+
+### Find me here:
+
 [![Linkedin Badge](https://img.shields.io/badge/%20-Linkedin-blue)](https://www.linkedin.com/in/gabrielsouzacastro/)
 [![Instagram Badge](https://img.shields.io/badge/%20-Instagram-blueviolet)](https://www.instagram.com/dev.gabrielcastro/)
