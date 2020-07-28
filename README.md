@@ -13,9 +13,9 @@
 - ⚡ Fun fact: ...
 -->
 
-- ⚡ Flutter
-- ⚡ Mobile Developer
-- ⚡ Web Developer
+⚡ Flutter
+⚡ Mobile Developer
+⚡ Web Developer
 
 ### Find me here:
 
