@@ -14,3 +14,4 @@
 -->
 
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-%20-blue)](https://www.linkedin.com/in/gabrielsouzacastro/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-%20-red)](https://www.instagram.com/dev.gabrielcastro/)
