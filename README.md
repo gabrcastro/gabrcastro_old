@@ -4,9 +4,11 @@
 
 ### I work with
 
-- :computer: Flutter
-- :iphone: Mobile Developer
 - :computer: Web Developer
+- :iphone: Mobile Developer
+- :computer: Flutter - React - VueJS - NodeJS - SQL
+
+
 
 ### Find me here:
 
