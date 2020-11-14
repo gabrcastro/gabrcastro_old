@@ -4,9 +4,9 @@
 
 ### I work with
 
-- :computer: Web Developer
-- :iphone: Mobile Developer
-- :computer: Flutter - React - VueJS - NodeJS - SQL
+- :computer: ReactJS - VueJS - JavaScript - NodeJS
+- :iphone: Flutter
+- :computer: MySQL - MongoDB - Python
 
 
 
