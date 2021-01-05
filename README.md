@@ -4,9 +4,10 @@
 
 ### I work with
 
-- :computer: ReactJS - VueJS - JavaScript - NodeJS
-- :iphone: Flutter
-- :computer: MySQL - MongoDB - Python
+- Web Developer: HTML, CSS, JavaScript, ReactJS
+- BD: SQL, MongoDB
+- Hobby: Flutter, Python
+
 
 
 
