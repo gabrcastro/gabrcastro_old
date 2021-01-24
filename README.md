@@ -4,9 +4,10 @@
 
 ### I work with
 
-- Web Developer: HTML, CSS, JavaScript, ReactJS
+- Web Developer: HTML, CSS, JavaScript, ReactJS, NodeJS
 - BD: SQL, MongoDB
-- Hobby: Flutter, Python
+- Hobby: Flutter, Python, Kotlin
+- Linux <3
 
 
 
