@@ -6,8 +6,8 @@
 
 - Web Developer: HTML, CSS, JavaScript, ReactJS, NodeJS
 - BD: SQL, MongoDB
-- Hobby: Flutter, Python, Kotlin
-- Linux <3
+- Hobby: Python - FLutter
+- Linux - Manjaro KDE <3
 
 
 
