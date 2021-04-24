@@ -4,10 +4,10 @@
 
 ### I work with
 
-- Web Developer: HTML, CSS, JavaScript, ReactJS, NodeJS
+- Front-End Developer
 - BD: SQL, MongoDB
-- Hobby: Python - FLutter
-- Linux - Manjaro KDE <3
+- Hobby: Studying FLutter and Node.js to Back-End
+- Linux - PopOS
 
 
 
