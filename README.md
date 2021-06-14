@@ -4,10 +4,12 @@
 
 ### I work with
 
-- Front-End Developer
-- BD: SQL, MongoDB
-- Hobby: Studying FLutter and Node.js to Back-End
-- Linux - PopOS
+- FullStack Developer
+- BD: PostgreSQL e MongoDB
+- Back-End: Java, Spring Boot, Node.js, Express
+- Front-End: HTML, CSS, JS, React, SASS
+- Hobby: Studying FLutter
+- Linux - PopOS and Manjaro KDE
 
 
 
