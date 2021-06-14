@@ -17,7 +17,7 @@
 ### Find me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/%20-Linkedin-blue)](https://www.linkedin.com/in/gabrielsouzacastro/)
-[![Instagram Badge](https://img.shields.io/badge/%20-Instagram-blueviolet)](https://www.instagram.com/gabscastro.dev/)
+[![Instagram Badge](https://img.shields.io/badge/%20-Instagram-blueviolet)](https://www.instagram.com/gabrielcastrodev/)
 
 <!--
 **castro-gabriel/castro-gabriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
