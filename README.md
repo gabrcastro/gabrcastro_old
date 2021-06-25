@@ -4,12 +4,11 @@
 
 ### I work with
 
-- FullStack Developer
 - BD: PostgreSQL e MongoDB
-- Back-End: Java, Spring Boot, Node.js, Express
+- Back-End: Java, Spring Boot, Node.js, Express and Python
 - Front-End: HTML, CSS, JS, React, SASS
-- Hobby: Studying FLutter
-- Linux - PopOS and Manjaro KDE
+- Hobby: Studying Data Engeneer
+- Linux & KDE 
 
 
 
