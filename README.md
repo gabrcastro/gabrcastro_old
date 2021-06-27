@@ -4,8 +4,9 @@
 
 ### I work with
 
-- BD: PostgreSQL e MongoDB
-- Back-End: Java, Spring Boot, Node.js, Express and Python
+- Android Developer
+- BD: PostgreSQL, MySQL, MongoDB, SQLite
+- Back-End: Java, Spring Boot, Node.js, Express
 - Front-End: HTML, CSS, JS, React, SASS
 - Hobby: Studying Data Engeneer
 - Linux & KDE 
