@@ -5,10 +5,10 @@
 ### I work with
 
 - Android Developer
-- BD: PostgreSQL, MySQL, MongoDB, SQLite
-- Back-End: Java, Spring Boot, Node.js, Express
+- BD: MySQL, MongoDB, SQLite
+- Back-End: Node.js
 - Front-End: HTML, CSS, JS, React, SASS
-- Hobby: Studying Data Engeneer
+- Hobby: Studying Flutter
 - Linux & KDE 
 
 
