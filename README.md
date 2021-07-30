@@ -13,7 +13,17 @@
 
 ## Skills
 
-<img src="./assets/react.png" />
+<div class="icon">
+
+  <img src="./assets/tux.png" width="100px"/>  
+  <img src="./assets/javascript.svg" width="50px"/>  
+  <img src="./assets/html.svg" width="50px"/>  
+  <img src="./assets/css.svg" width="50px"/>  
+  <img src="./assets/react.png" width="90px"/>   
+  <img src="./assets/sass.png" width="80px"/>
+  <img src="./assets/flutter.svg" width="50px"/>
+
+</div>
 
 
 
