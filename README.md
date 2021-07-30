@@ -13,32 +13,26 @@
 
 ## Skills
 
-<div class="icon">
+<img src="./assets/tux.png" width="100px" />   
+<img src="./assets/html.svg" width="50px"/>  
+<img src="./assets/css.svg" width="50px"/>  
+<img src="./assets/sass.png" width="80px"/> 
+<img src="./assets/javascript.svg" width="50px"/>  
+<img src="./assets/typescript.svg" width="50px"/> 
+<img src="./assets/react.png" width="90px"/>  
+<img src="./assets/npm.svg" width="80px"/> 
+<img src="./assets/flutter.svg" width="50px"/>
+<img src="./assets/mysql.svg" width="50px"/> 
+<img src="./assets/mongodb.svg" width="90px"/> 
+<img src="./assets/docker.svg" width="100px"/> 
 
-  <img src="./assets/tux.png" width="100px"/>  
-  <img src="./assets/javascript.svg" width="50px"/>  
-  <img src="./assets/html.svg" width="50px"/>  
-  <img src="./assets/css.svg" width="50px"/>  
-  <img src="./assets/react.png" width="90px"/>   
-  <img src="./assets/sass.png" width="80px"/>
-  <img src="./assets/flutter.svg" width="50px"/>
 
-  <img src="./assets/docker.svg" width="100px"/>  
-  <img src="./assets/mysql.svg" width="50px"/>  
-  <img src="./assets/mongodb.svg" width="90px"/>   
-  <img src="./assets/npm.svg" width="80px"/>
-  <img src="./assets/typescript.svg" width="50px"/>
 
-</div>
 
 ## Find me here
-<div class="icon">
 
-  <img src="./assets/instagram.png" width="50px"/>  
-  <img src="./assets/linkedin.svg" width="50px"/>  
-
-</div>
-
+<img src="./assets/instagram.png" width="50px"/>  
+<img src="./assets/linkedin.svg" width="50px"/> 
 
 <!--### Find me here:
 
