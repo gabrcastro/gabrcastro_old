@@ -23,6 +23,14 @@
   <img src="./assets/sass.png" width="80px"/>
   <img src="./assets/flutter.svg" width="50px"/>
 
+  <img src="./assets/docker.svg" width="100px"/>  
+  <img src="./assets/instagram.png" width="50px"/>  
+  <img src="./assets/linkedin.png" width="50px"/>  
+  <img src="./assets/mysql.svg" width="50px"/>  
+  <img src="./assets/mongodb.png" width="90px"/>   
+  <img src="./assets/npm.png" width="80px"/>
+  <img src="./assets/typescript.svg" width="50px"/>
+
 </div>
 
 
