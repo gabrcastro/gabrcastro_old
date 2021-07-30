@@ -1,4 +1,4 @@
-### Hi! I'm Gabriel Castro. 👋
+## Hi! I'm Gabriel Castro. 👋
 
 :brazil: I'm brazilian and live in Salvador, Bahia -Brazil
 
@@ -11,6 +11,9 @@
 - Hobby: Studying Flutter
 - Linux & KDE 
 
+## Skills
+
+<img src="./assets/react.png" />
 
 
 
