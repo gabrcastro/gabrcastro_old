@@ -3,9 +3,9 @@
 :brazil: I'm brazilian
 
 <div>
-  <a href="https://github.com/castro-gabriel" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=castro-gabriel&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=castro-gabriel&layout=compact&langs_count=7&theme=dark" />
+  <a href="https://github.com/ga-brielcastro" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ga-brielcastro&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ga-brielcastro&layout=compact&langs_count=7&theme=dark" />
 </div>
   
 ## Skills 
