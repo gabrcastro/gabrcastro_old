@@ -26,8 +26,5 @@
 <div style="display: inline_block"><br/>
   
   <a href="https://www.linkedin.com/in/gabrielsouzacastro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>
-  <a href="https://instagram.com/ga.brielcastro" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" /></a>
-  <a href="https://www.youtube.com/channel/UCgEENLYqE9UTmwpPK-gJ4fg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank" /></a>
-  <a href="https://twitter.com/ga_brielcastro" target="_blank"><img src="https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"/></a>
   
 </div>
