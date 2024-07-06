@@ -56,15 +56,6 @@ body {
     font-weight: 500;
 }
 
-.container .about {
-    font-size: 1rem;
-    font-weight: 300;
-
-    margin-top: 20px;
-
-    width: 70%;
-}
-
 .spacer {
     height: 20%;
 }
@@ -73,6 +64,15 @@ body {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+}
+
+.column_about .about {
+    font-size: 1rem;
+    font-weight: 300;
+
+    margin-top: 20px;
+
+    width: 70%;
 }
 
 .column_about a {
@@ -85,6 +85,7 @@ body {
     align-items: center;
     justify-content: center;
     width: 150px;
+    max-height: 40px;
     color: #FFFFFF;
     font-size: 1rem;
     font-weight: 400;
@@ -144,7 +145,6 @@ body {
 
 .experience {
     width: 33.3%;
-    height: 240px;
     padding: 15px;
     border-radius: 10px;
     border: 1px solid #414050;
